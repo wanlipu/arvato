@@ -1,10 +1,4 @@
-# Udacity Machine Learning Engineering Capstone Project
-This is part of Udacity Machine Learning Engineering Program, and this repository is meant to document my progress towards Capstone Project completion.
-
-## AWS DeepRacer Scholarship Challenge
-- [AWS DeepRacer Scholarship Challenge](https://sites.google.com/udacity.com/awsdeepracerchallenge/faqs)
-- I was [ranked the 12th spot (username: aws-challenger)](https://d3akhm1epsal2g.cloudfront.net/?event=scholarship-challenge-overall) and awarded with the nanodegree program
-    <img src="https://github.com/wanlipu/arvato_project/blob/master/images/aws_deepracer_scholarship_challenge_rank.PNG" alt="DeepRacer Rank" width="500"/>
+#  Arvato Project
 
 ## Project Structure
 Data Files:
@@ -29,3 +23,7 @@ seaborn
 scikit-learn
 joblib
 ```
+
+### Kaggle Competition
+- [Udacity+Arvato: Identify Customer Segments](https://www.kaggle.com/c/udacity-arvato-identify-customers)
+- I was ranked the 42nd spot (public score: 0.80153, the 1st place score: 0.81063)
