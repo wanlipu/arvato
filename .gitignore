@@ -4,4 +4,4 @@ proposal
 .ipynb_checkpoints
 *.xlsx
 *.docx
-*.pdf
+# *.pdf
