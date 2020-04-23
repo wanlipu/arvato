@@ -26,4 +26,4 @@ joblib
 
 ### Kaggle Competition
 - [Udacity+Arvato: Identify Customer Segments](https://www.kaggle.com/c/udacity-arvato-identify-customers)
-- I was ranked the 38th spot (public score: 0.80153, the 1st place score: 0.81063)
+- I was ranked the 42nd spot (public score: 0.80153, the 1st place score: 0.81063)
